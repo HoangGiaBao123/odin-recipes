@@ -19,4 +19,4 @@ The project is organized with a clear hierarchy for better management:
 - Using Git and GitHub for version control.
 
 ## How to View
-To view this project, clone the repository and open `index.html` in any web browser.
+To view this project, clone the repository and open `index.html` in any web browser or Live Preview here: https://hoanggiabao123.github.io/odin-recipes/
